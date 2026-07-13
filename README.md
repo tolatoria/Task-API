@@ -29,8 +29,7 @@ This is a RESTful task management API that enables users to create, organize, an
 | PUT    | /api/tasks/:id    | Update an existing task |
 | DELETE | /api/tasks/:id    | Delete a task           |
 
-## ⚙️ Running Locally
-<img width="1282" height="728" alt="Screenshot 2026-07-13 210742" src="https://github.com/user-attachments/assets/5b996e61-3a34-4b7d-9acb-c37f6e5ab8ab" />```bash
+```bash
 # Clone the repo
 git clone https://github.com/tolatoria/Task-API.git
 
@@ -49,7 +48,7 @@ npm start
 ```
 
 ## 📸 Screenshot
-
+<img width="1282" height="728" alt="Screenshot 2026-07-13 210742" src="https://github.com/user-attachments/assets/5b996e61-3a34-4b7d-9acb-c37f6e5ab8ab" />
 ## 📚 About This Project
 
 This is Project 1 of a 20-project backend development roadmap, built as a hands-on way to strengthen real-world API development skills.
