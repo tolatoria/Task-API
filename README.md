@@ -50,8 +50,6 @@ npm start
 
 ## 📸 Screenshot
 
-*(Add your Postman screenshot here once ready)*
-
 ## 📚 About This Project
 
 This is Project 1 of a 20-project backend development roadmap, built as a hands-on way to strengthen real-world API development skills.
